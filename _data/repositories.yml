@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - jroblar
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - jroblar/ssp_transformations_handler
+  - gt-rail-internal/rerail_stretchit_manipulation
+  - jroblar/gatech-ml-project
+  - jroblar/gatech-algorithms-project
+  - jroblar/cse6242-project
+  - jroblar/blue_stretch
+  - jroblar/karasu
