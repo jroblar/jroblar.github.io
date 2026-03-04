@@ -24,15 +24,17 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Senior Research Programmer at the [Decision Science Center](https://egobiernoytp.tec.mx/es/investigacion/centro-decisiones) at Tecnológico de Monterrey’s School of Government and Public Transformation. My work focuses on applying data science and machine learning to support decision-making in climate action, urban development, and sustainable policy. I build predictive models, data pipelines, and simulations to analyze large-scale socio-economic and environmental datasets.
+I work as a Senior Research Programmer at the Decision Science Center at Tecnológico de Monterrey’s School of Government and Public Transformation. I build data systems, simulation tools, and machine learning models to help analyze complex social, economic, and environmental issues.
 
-I hold an M.S. in Computer Science from [Georgia Tech](https://www.gatech.edu/), where I specialized in Machine Learning. During my graduate studies, I worked on a variety of projects, including machine learning applications and robotics systems that integrated deep learning for object detection and manipulation.
+I design and implement data pipelines, forecasting workflows, and large-scale simulation analysis tools that transform heterogeneous datasets into model-ready inputs for predictive and exploratory modeling. My work often involves building reproducible data infrastructure and scalable processing pipelines to support scenario analysis and machine learning applications.
 
-Before that, I worked as a Research Engineer at [IPICyT](https://www.ipicyt.edu.mx/), where I designed and deployed end-to-end data pipelines for air quality monitoring and predictive analytics. I applied regression modeling to calibrate sensor data and visualize pollution trends—laying the foundation for data-driven environmental assessments.
+I earned my M.S. in Computer Science from Georgia Tech, specializing in Machine Learning. While in graduate school, I worked on projects in applied machine learning and robotics, including systems that used deep learning for object detection and robotic control.
 
-Earlier in my career, I conducted bioengineering research under Prof. [Yu Shrike Zhang](https://shrikezhang.com/) at Harvard Medical School, developing 3D printing methods and hydrogel-based tissue modeling tools for biomedical applications.
+Before Tecnológico de Monterrey, I was a Research Engineer at IPICyT. There, I designed and set up data pipelines for air quality monitoring and predictive analytics. I also created calibration models for affordable environmental sensors and built workflows to process and visualize pollution data.
 
-My work spans data science, machine learning, and software development, and I'm passionate about using these tools to solve complex social and environmental challenges. I’m currently focused on expanding my impact in data-driven policy, sustainability, and applied ML research.
+Earlier in my career, I did bioengineering research at Harvard Medical School with Prof. Yu Shrike Zhang. I developed 3D-printing methods and hydrogel-based tools for modeling tissues in biomedical research.
+
+In all these roles, I have focused on building software, data systems, and machine learning tools to tackle complex real-world problems. I am especially interested in projects that bring together data engineering, scalable analytics, and applied machine learning.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
